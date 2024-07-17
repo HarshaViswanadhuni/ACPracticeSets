@@ -10,3 +10,17 @@ button{
     background-color: #f08804;
     color: white;
 }
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+#BOX1{
+    background-color: rgba(255,0,0,0.5);
+}
+#BOX2{
+    background-color: rgba(255,0,0,0.75);
+}
+#BOX3{
+    background-color: rgba(255,0,0,1);
+}
