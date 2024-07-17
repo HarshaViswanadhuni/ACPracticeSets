@@ -5,3 +5,5 @@ This repo is to track the Apna College pracitce sets
 Author -- Harsha
 <br>
 Practise Set 1 Finished
+<br>
+Practise Set 3 Finished

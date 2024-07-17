@@ -1,9 +1,12 @@
-#box{
-    background-color: blue;
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    align-content: center;
 }
-.heading{
-    color: red;
+a{
+    margin-right: 200px;
 }
 button{
-    background-color: green;
+    background-color: #f08804;
+    color: white;
 }
